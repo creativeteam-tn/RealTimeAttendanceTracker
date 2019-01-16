@@ -1,5 +1,6 @@
 # RealTimeAttendanceTracker
 This project is part of the capstone project of our New Udemy Course :
+
 https://www.udemy.com/build-attendance-system-using-raspberrypi-parse-and-android-kotlin/?couponCode=GITHUB_DISCOUNT_CT
 
 # You can use the above link to get the course in a discounted price.
